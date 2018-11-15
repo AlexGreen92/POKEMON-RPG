@@ -1,0 +1,11 @@
+body{
+    background-image: url('../images/background.jpg')
+}
+img{
+    width:120px;
+}
+.character{
+  background-color: white;
+  display:inline-block;
+  text-align: center;
+}
