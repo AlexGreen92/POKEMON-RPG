@@ -67,6 +67,7 @@ $('#attack').on('click',function(){
     if(enemiesDefeated==3){
         $('#log1').text('You won!!!! GAME OVER!!!');
         $('#log2').html('<button onclick="myFunc()">Restart</button>');
+        if(char.healthPoints<=0){char.healthPoints=1;$('#log1').append('<div>You barely survived!:)</div>')}
     }
     $('#defender').find('.hp').text(enemy.healthPoints)
     $('#yourCharacter').find('.hp').text(char.healthPoints)
