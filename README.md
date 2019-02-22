@@ -1,4 +1,4 @@
-# unit-4-game
+# POKEMON RPG
 Here's how the app works:
 
    * When the game starts, you can choose a character by clicking on the fighter's picture. You will fight as that character for the rest of the game.
