@@ -18,3 +18,4 @@ You will keep hitting the attack button in an effort to defeat their opponent.
    * When the defender's `HP` is reduced to zero or below, enemy is gonna be removed from the `defender area`. You will be able to a new opponent.
 
 You win the game by defeating all enemy characters. You lose the game if your character's `HP` falls to zero or below and while there are still enemies remaining.
+![Screenshot](https://github.com/AlexGreen92/POKEMON-RPG/blob/master/assets/images/pokemonRPG.png)
